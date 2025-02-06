@@ -1,0 +1,13 @@
+#include<conio.h>
+#include<studio.h>
+void main()
+{
+ int a,b,c;
+printf("enter the ist no");
+scanf("the first number is %d",&a);
+printf("the second no.");
+scanf("the 2nd no is %d",&b);
+c=a+b
+printf("%d"&c)
+getch()
+}
